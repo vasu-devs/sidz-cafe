@@ -105,11 +105,3 @@ There are example screenshots inside the `menu/` folder (e.g. `menu/Screenshot_2
 SIDZ CAFE — repo maintained in this workspace. For development help or to request features, open an issue or create a pull request.
 
 ---
-
-Thank you for sharing this repo — I created this README to help visitors understand, preview, and contribute to the site. If you want, I can also:
-
-- Add a `LICENSE` file (suggest MIT).
-- Implement the add-to-cart flow and 1-2 unit tests for cart logic.
-- Clean up `index.js` and link proper scripts only where needed.
-
-If you want any of those next steps done now, tell me which one and I'll proceed.
